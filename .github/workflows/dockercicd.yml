@@ -1,0 +1,6 @@
+name: dockercicd
+
+on:
+  push:
+    branches:
+      - 'main'
